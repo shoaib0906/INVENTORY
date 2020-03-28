@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `last_login_now` TIMESTAMP NULL DEFAULT NULL AFTER `last_login_ip`, ADD `last_login_ip_now` VARCHAR(100) NULL DEFAULT NULL AFTER `last_login_now`;

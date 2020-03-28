@@ -1,0 +1,1 @@
+{"aaData":[[178,"2019-07-13","WG-F.Black(80)","70.00","200Lb.","14,000.00","<a onclick=\"return confirm_click();\" href=\"delete_product_out\/406\"  class=\"delete_product_out \"> <i class=\"fa fa-trash\"><\/i><\/a>"]]}

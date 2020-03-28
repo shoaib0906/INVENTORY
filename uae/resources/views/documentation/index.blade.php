@@ -1,0 +1,1 @@
+Documentation is moved. Download zip file from codecanyon, extract it. You will get documentation folder.
