@@ -1,5 +1,7 @@
 # Laravel 5 Inventory Management System(Customized worked in tokaims.tk)
 
+Laravel 5.0,Angular JS,AJAX,Jquery,HTML5,CSS4,Less,Sess,Bootstrap and Responsive. Database – Mysql.
+
 - 1.Product In.
 - 2.Product Out
 - 3.Product Setup
