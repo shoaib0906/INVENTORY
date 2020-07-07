@@ -8,3 +8,5 @@
 6.Stock Managment.
 7.MIS Report Yearly Bill Report.
 8.Yearly Report Product Category wise BIll Amount.
+MIS Report
+https://github.com/shoaib0906/INVENTORY/blob/master/screencapture-tokaims-tk-mis-report-2020-07-07-05_18_41.png
